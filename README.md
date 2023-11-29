@@ -1,11 +1,4 @@
-# FacialChangePrediction 2.0
-
-**Dataset**
-Please download the training dataset from BOX.com
-
-**Trained models**
-Please download the training dataset from BOX.com, and put the trained model to /FacialChangePrediction/
-
+# FacialChangePrediction
 
 
 **Prerequisites**
@@ -16,7 +9,6 @@ Please download the training dataset from BOX.com, and put the trained model to 
 
 The code is built on the top of [PointNET++](https://github.com/charlesq34/pointnet2). 
 Before run the code, please compile the customized TensorFlow operators of PointNet++ under the folder "/Prediction_net/tf_ops".
-Compared with version1.0, two more operators need to be complied, approxmatch and nn_distance
 
 **Train and test**
 
