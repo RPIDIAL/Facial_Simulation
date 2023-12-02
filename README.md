@@ -3,8 +3,8 @@
 ## Introduction
 In this work, we have formulated an ACMT-Net incorporating a novel CPSA module. ACMT-Net is designed to accurately predict the change of one point set prompted by the movement of another point set. We further proposed a novel k-NN-based contrastive learning approach for pre-training the attentive correspondence between bony and facial point sets, enhancing its capability to model spatial correspondence. The proposed ACMT-Net attains the same level of accuracy as the state-of-the-art FEM simulation method, while considerably reducing the computational time required during the surgical planning processes. For more details on the network, please refer to our [MICCAI 2022 paper](https://link.springer.com/chapter/10.1007/978-3-031-16449-1_54) or the pre-print version available on [arXiv](https://arxiv.org/pdf/2210.01685.pdf).
 
-## 💥 Award 💥 
-Our work has been awarded [MICCAI Young Scientist Publication Award](http://www.miccai.org/about-miccai/awards/best-paper-award-and-young-scientist-award/). 
+## Award
+Our work has been awarded [MICCAI 2022 Young Scientist Publication Award](http://www.miccai.org/about-miccai/awards/best-paper-award-and-young-scientist-award/) and [MICCAI 2022 Student Travel Award](http://www.miccai.org/about-miccai/awards/student-travel-awards/). 
 
 ## Demo
 ![Demo](demo/demo.gif)
