@@ -3,6 +3,9 @@
 ## Introduction
 In this work, we have formulated an ACMT-Net incorporating a novel CPSA module. ACMT-Net is designed to accurately predict the change of one point set prompted by the movement of another point set. We further proposed a novel k-NN-based contrastive learning approach for pre-training the attentive correspondence between pairs of bony and facial point sets, which further enhances its capability to model spatial correspondence. The proposed ACMT-Net attains the same level of accuracy as the state-of-the-art FEM simulation method, while considerably reducing the computational time required during the surgical planning processes.
 
+![Demo](demo/case2.gif)
+![Demo](demo/case3.gif)
+
 **Prerequisites**
 - Linux (tested under Ubuntu 16.04 )
 - Python (tested under 2.7)
